@@ -11,5 +11,17 @@ Day-01 (Basic)
 7. Write a Java Program to add 3 items cost in bill with additional 18%GST.
 
 Day-02 (Conditional Statement)
+
 8. Write a Java Program to print largest of two numbers.
-9. 
+9. Write a Java Program to print given number is even or odd using modulous operator.
+10. Write a Java Program to print given number is even or odd using bitwise operator. 
+    *********************************************************************************
+    Even numbers always end with a 0 in the last bit (e.g., ...10, ...100, ...1000).
+    Odd numbers always end with a 1 in the last bit (e.g., ...11, ...101, ...1001).
+    ***********************************************************************************
+11. Write a Java Program to print given number is even or odd without using modulous or bitwise operator.
+12. Write a Java Program for income tax calculator.
+13. Write a Java Program for Largest of three number.
+14. Write a program for simple calculator using switch.
+15. Write a program to get a number from the user and print whether it is positive or negative.
+16. 
