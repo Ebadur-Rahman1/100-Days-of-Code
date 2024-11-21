@@ -24,4 +24,13 @@ Day-02 (Conditional Statement)
 13. Write a Java Program for Largest of three number.
 14. Write a program for simple calculator using switch.
 15. Write a program to get a number from the user and print whether it is positive or negative.
-16. 
+
+Day-03 
+
+16. Write a program to take input week number(1-7) and print day of week name using switch case.
+17. Write a program to print leap year(With two different logic).
+
+Day-04 (Loops)
+
+18. Write a program to print number from 1 to 10 using while loop.
+
