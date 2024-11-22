@@ -34,3 +34,12 @@ Day-04 (Loops)
 
 18. Write a program to print number from 1 to 10 using while loop.
 
+Day-05
+19. Write a program to print number from 1 to n using while loop.
+20. Write a program to calculate sum of n natural numbers.
+21. Print reverse of a number. (Only print no need to construct a new reversed number) % operator
+     gives us last digit of a number or Remainder of a number.
+22. Reverse the given number.(constructing a new number).
+23. Keep entering number till user enter multiple of 10 using do while.
+
+
