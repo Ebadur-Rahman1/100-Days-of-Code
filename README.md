@@ -53,4 +53,9 @@ Day-06
 Day-07 (Functions)
 28. Product of two number using function.
 
+Day-08 
+29. Factorial of given number using function.
+
+
+
 
