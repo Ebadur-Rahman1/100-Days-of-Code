@@ -49,6 +49,8 @@ Day-06
 25. check prime or not using optimise approach.(sqrt())
 26. Write program to find the factorial of any number entered by the user.
 27. Write a program to print the multiplication table of a number N, entered by the user.
-28. 
+
+Day-07 (Functions)
+28. Product of two number using function.
 
 
