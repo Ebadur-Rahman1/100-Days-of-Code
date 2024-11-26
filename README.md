@@ -54,9 +54,13 @@ Day-07 (Functions)
 28. Product of two number using function.
 
 Day-08 
+
 29. Factorial of given number using function.
-30. Write a program to calculate Binomial Coefficient ncr = n!/r!(n-1) using function.
+30. Write a program to calculate Binomial Coefficient ncr = n!/r!(n-r)! using function.
 31. Write a program to find number is prime or not using function (Optimize solution: Math.sqrt()).
+
+Day-09
+
 32. Print all prime number in range.
 
 
