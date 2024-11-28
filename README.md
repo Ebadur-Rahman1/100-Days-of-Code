@@ -62,9 +62,12 @@ Day-08
 Day-09
 
 32. Print all prime number in range.
+33. Print prime numbers between two numbers
 
 
 
 
 
 
+
+Required: Binary to Decimal and Decimal to Binary
