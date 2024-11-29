@@ -51,6 +51,7 @@ Day-06
 27. Write a program to print the multiplication table of a number N, entered by the user.
 
 Day-07 (Functions)
+
 28. Product of two number using function.
 
 Day-08 
@@ -65,8 +66,10 @@ Day-09
 33. Print prime numbers between two numbers
 
 Day-10
+
 34. Write a program to print all prime factors.
-35. 
+35. Write a program to swap two numbers using third variable
+36. Write a program to swap two numbers without using third variable
 
 
 
