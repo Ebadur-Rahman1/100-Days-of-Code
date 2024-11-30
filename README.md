@@ -71,7 +71,9 @@ Day-10
 35. Write a program to swap two numbers using third variable
 36. Write a program to swap two numbers without using third variable
 
-
+Day-11
+37. Write a method to compute the sum of the digits in an integer.
+38. 
 
 
 
