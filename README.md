@@ -72,9 +72,15 @@ Day-10
 36. Write a program to swap two numbers without using third variable
 
 Day-11
+
 37. Write a method to compute the sum of the digits in an integer.
-38. 
+38. Write a method to count digit in a number.
+39. Print first 10 natural number in revers.
+40. Print first 10 even natural number.
+41. Find the root of a quadratic equation. 
 
 
 
 Required: Binary to Decimal and Decimal to Binary
+Palindrom
+fibonacci
