@@ -77,7 +77,10 @@ Day-11
 38. Write a method to count digit in a number.
 39. Print first 10 natural number in revers.
 40. Print first 10 even natural number.
-41. Find the root of a quadratic equation. 
+
+Day-12
+
+41. Find the root of a quadratic equation.
 
 
 
