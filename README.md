@@ -80,10 +80,13 @@ Day-11
 
 Day-12
 
-41. Find the root of a quadratic equation.
+41. Write a program to Find the root of a quadratic equation.
 
+Day-13
+42. Write a program to Calculate x power y.
 
 
 Required: Binary to Decimal and Decimal to Binary
 Palindrom
 fibonacci
+Armstrong
