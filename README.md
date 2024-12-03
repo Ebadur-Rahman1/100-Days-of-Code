@@ -86,6 +86,12 @@ Day-13
 
 42. Write a program to Calculate x power y.
 
+Day-14
+
+43. Write a program to Calculate LCM of two number.
+44. Write a program to Calculate HCF of two number.
+
+
 
 Required: Binary to Decimal and Decimal to Binary
 Palindrom
