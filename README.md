@@ -91,9 +91,15 @@ Day-14
 43. Write a program to Calculate LCM of two number.
 44. Write a program to Calculate HCF of two number.
 
+Day-15
+
+45. Write a program to Convert Binary to Decimal.
+46. Write a program to Convert Decimal to Binary.
 
 
-Required: Binary to Decimal and Decimal to Binary
+
+
 Palindrom
 fibonacci
 Armstrong
+perfect number
