@@ -96,6 +96,10 @@ Day-15
 45. Write a program to Convert Binary to Decimal.
 46. Write a program to Convert Decimal to Binary.
 
+Day-16
+
+47. Write a method to check wheather given number is palindrom or not.
+
 
 
 
