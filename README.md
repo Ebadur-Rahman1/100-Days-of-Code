@@ -99,11 +99,16 @@ Day-15
 Day-16
 
 47. Write a method to check wheather given number is palindrom or not.
+48. Write a method to print fibonacci series.
+49. Write a method to check perfect number.
+50. Write a method to check armstrong number.
+
+Day-17(Pattern)
+
+51. 
 
 
 
 
-Palindrom
-fibonacci
-Armstrong
-perfect number
+
+Matrix Sum/Product
