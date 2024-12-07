@@ -106,8 +106,12 @@ Day-16
 Day-17(Pattern)
 
 For Pattern Structure please look into the code comment.
+
 51. Print Half Pyramid Pattern using *.
 52. Print Inverted Half Pyramid using *. 
+
+Day-18(Pattern)
+
 53. 
 
 
