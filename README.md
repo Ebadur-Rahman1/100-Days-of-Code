@@ -2,7 +2,7 @@
 100-Days-of-Code Challenge 
 
 Day-01 (Basic)
-1. Write a Java Program to print "Hello World"
+1. Write a Java Program to print "Hello World".
 2. Write a Java Program to add two numbers.
 3. Write a Java Program to calculate product of two numbers.
 4. Write a Java Program to calculate Area of Circle.
@@ -14,7 +14,7 @@ Day-02 (Conditional Statement)
 
 8. Write a Java Program to print largest of two numbers.
 9. Write a Java Program to print given number is even or odd using modulous operator.
-10. Write a Java Program to print given number is even or odd using bitwise operator. 
+10. Write a Java Program to print given number is even or odd using bitwise operator.
     *********************************************************************************
     Even numbers always end with a 0 in the last bit (e.g., ...10, ...100, ...1000).
     Odd numbers always end with a 1 in the last bit (e.g., ...11, ...101, ...1001).
@@ -112,7 +112,16 @@ For Pattern Structure please look into the code comment.
 
 Day-18(Pattern)
 
-53. 
+53. Print HalfPyramid using Number.
+54. Print HalfPyramid using character.
+
+More pattern will add in latter days in the same Day-18 files.
+
+Day-19(Array)
+
+1. Linear Search: Find the index of element in a given array [2,4,6,6,10,12,14,16] Key=10.
+2. 
+
 
 
 
