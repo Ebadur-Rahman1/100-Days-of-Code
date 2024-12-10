@@ -114,13 +114,15 @@ Day-18(Pattern)
 
 53. Print HalfPyramid using Number.
 54. Print HalfPyramid using character.
+55. InvertedRotatedHalfPyramid using *.
 
 More pattern will add in latter days in the same Day-18 files.
 
 Day-19(Array)
 
 1. Linear Search: Find the index of element in a given array [2,4,6,6,10,12,14,16], Key=10.
-2. 
+2. Find the largest number in a given array.
+3. 
 
 
 
