@@ -122,7 +122,7 @@ Day-19(Array)
 
 1. Linear Search: Find the index of element in a given array [2,4,6,6,10,12,14,16], Key=10.
 2. Find the largest number in a given array.
-3. 
+3. Find the smallest number in a given array
 
 
 
