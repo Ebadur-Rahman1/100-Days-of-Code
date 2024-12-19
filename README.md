@@ -127,7 +127,9 @@ Day-19(Array)
 5. Reverse an array with the help of second array.
 6. Reverse an array without helping of second array.
 
-Day-20
+Day-20 (Array)
+
+7. 
 
 
 
