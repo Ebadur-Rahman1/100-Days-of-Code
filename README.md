@@ -126,6 +126,7 @@ Day-19(Array)
 4. Find the index of a given element using binary search.
 5. Reverse an array with the help of second array.
 6. Reverse an array without helping of second array.
+7. Print pairs an array.
 
 Day-20 (Array)
 
