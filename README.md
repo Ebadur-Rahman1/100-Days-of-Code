@@ -126,14 +126,39 @@ Day-19(Array)
 4. Find the index of a given element using binary search.
 5. Reverse an array with the help of second array.
 6. Reverse an array without helping of second array.
-7. Print pairs an array.
+7. Print pairs an array. 
+Eg: Array = {2,4,6,8,10}
+    sub array1: (2,4) (2,6) (2,8) (2,10)
+    sub array2: (4,6)(4,8)(4,10)
+    sub array3: (6,8) (6,10)
+    sub array4: (8,10)
+    
+8. Print subarray.
+    Print subarray: A continuous part of array
+    2
+    2 4
+    2 4 6
+    2 4 6 8
+    2 4 6 8 10
+    4
+    4 6
+    4 6 8
+    4 6 8 10
+    6
+    6 8
+    6 8 10
+    8
+    8 10
+    10
+    
+9. Max SubArray Sum.
+
 
 Day-20 (Array)
 
-7. 
-8. 
-9. 
 10. 
+11. 
+12. 
 
 
 
