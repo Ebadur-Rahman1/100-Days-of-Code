@@ -159,11 +159,12 @@ Eg: Array = {2,4,6,8,10}
 
 Day-20 (Array)
 
-10. Array 
-11. 
-12. 
+10. Leetcode Problem: 74
 
 
+
+Day-21 (String)
+1. Count how many times lowercase vowels occurred in a String entered by the user.
 
 
 Matrix Sum/Product
