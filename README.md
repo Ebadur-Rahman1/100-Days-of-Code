@@ -166,5 +166,7 @@ Day-20 (Array)
 Day-21 (String)
 1. Count how many times lowercase vowels occurred in a String entered by the user.
 
+Day-22 (Bit Manipulation)
+1. Swap two numbers using bitwise operator.
 
 Matrix Sum/Product
